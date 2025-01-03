@@ -1,5 +1,5 @@
 # QR-Code
- my solution code to qr code challange on Frontend Mentor
+ My solution code to the QR code challange on Frontend Mentor
 
 # Frontend Mentor - QR code component
 
